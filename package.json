@@ -1,0 +1,15 @@
+{
+  "name": "turtletamagotchi",
+  "version": "1.0.0",
+  "description": "Tamagotchi game created in p5.js",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "home": "https://kuroxx.github.io/TurtleTamagotchi",
+  "author": "Anni Chen",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
