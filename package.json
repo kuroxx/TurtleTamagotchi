@@ -6,10 +6,19 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuroxx/TurtleTamagotchi.git"
+  },
   "home": "https://kuroxx.github.io/TurtleTamagotchi",
   "author": "Anni Chen",
   "license": "MIT",
   "dependencies": {
     "gh-pages": "^2.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/kuroxx/TurtleTamagotchi/issues"
+  },
+  "homepage": "https://github.com/kuroxx/TurtleTamagotchi#readme",
+  "devDependencies": {}
 }
